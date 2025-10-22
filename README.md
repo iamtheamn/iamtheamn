@@ -1,10 +1,8 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je m’appelle **Aymen**, élève en terminale Bac Pro Systèmes Numériques au lycée Le Marais Sainte Thérèse à Saint-Étienne. Le monde des réseaux informatiques, de la programmation et de la cybersécurité m’intéresse. Spécialisé en Réseau Informatique et Systèmes Communicants, je m’intéresse de plus en plus à la complexité de l’informatique et aux défis techniques.
+Je m’appelle **Aymen**, élève en BTS SIO (Service Informatique aux Organisations). Le monde des réseaux informatiques, de la programmation et de la cybersécurité m’intéresse. Spécialisé en Réseau Informatique et Systèmes Communicants, je m’intéresse de plus en plus à la complexité de l’informatique et aux défis techniques.
 
 J’ai commencé à m’intéresser à l’informatique lors de l’utilisation des jeux vidéo, mais le vrai déclencheur demeure mon Bac Pro où j’ai découvert un monde totalement différent, apprendant par exemple le binaire, l’hexadécimal et tous ces éléments qui m’ont conduit à découvrir la passion de la cybercriminalité qui me paraît être un domaine stratégique et technique. 
-
-Post-bac, je veux accomplir un **BTS SIO (Service informatique aux organisations)** en alternance pour acquérir une expérience pratique solide en entreprise. 
 
 ## 🚀 Compétences techniques :
 
