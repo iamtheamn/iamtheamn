@@ -64,6 +64,6 @@ Mon parcours ne se résume pas à l'école : je suis un **autodidacte** curieux,
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtheamn&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtheamn&layout=compact&theme=dark&hide_border=true" height="180" alt="languages graph"  />
+  <h3>🏆 Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamtheamn&theme=gitdimmed&no-frame=true&column=7&margin-w=15" alt="trophy" />
 </div>
