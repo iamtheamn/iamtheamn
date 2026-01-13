@@ -31,8 +31,8 @@ Actuellement en **BTS SIO option SISR** (Solutions d'Infrastructure, Systèmes e
 
 Mon parcours ne se résume pas à l'école : je suis un **autodidacte** curieux, touchant aussi bien au réseau qu'au développement ou à l'électronique.
 
-* 🔭 **En ce moment :** Je développe des projets personnels comme mon [Portfolio interactif](https://aymenhammache.fr).
-* ⚡ **Centres d'intérêt :** L'Open Source, le Hardware Hacking et la Musique Électronique.
+* 🔭 **En ce moment :** Je développe des projets personnels comme mon [Portfolio](https://aymenhammache.fr).
+* ⚡ **Centres d'intérêt :** L'Open Source, le Hardware Hacking et l'électronique.
 
 ---
 
